@@ -6,6 +6,9 @@
 install:
 	forge install Rari-Capital/solmate
 	forge install OpenZeppelin/openzeppelin-contracts
+    forge install foundry-rs/forge-std
+    forge install safe-global/safe-contracts
+    forge install dapphub/ds-test
 
 # To Check gas report 
 gas:
